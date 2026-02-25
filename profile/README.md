@@ -34,15 +34,3 @@ Distributed ledger technologies and smart contract solutions for secure, transpa
 - **[Blockchain Solutions](https://www.venturus.org.br/en/services/blockchain)** - Custom blockchain implementations and Web3 applications
 
 ---
-
-## Industries Served
-
-We deliver specialized solutions across multiple industries:
-
-| Manufacturing & Logistics | Healthcare & Pharma | Agribusiness |
-|:-------------------------:|:-------------------:|:------------:|
-| [Learn More](https://www.venturus.org.br/en/markets/manufacturing-and-logistics) | [Learn More](https://www.venturus.org.br/en/markets/healthcare-and-pharmacy) | [Learn More](https://www.venturus.org.br/en/markets/agribusiness) |
-
-| Energy | Financial & Payment Methods | Automotive |
-|:------:|:--------------------------:|:----------:|
-| [Learn More](https://www.venturus.org.br/en/markets/energy) | [Learn More](https://www.venturus.org.br/en/markets/financials-and-payment-methods) | [Learn More](https://www.venturus.org.br/en/markets/automotive) |
