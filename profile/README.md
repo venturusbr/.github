@@ -2,7 +2,9 @@
 
 **Venturus** is a Brazilian technology innovation center with over 30 years of experience delivering custom solutions with emerging technologies. We partner with global companies to transform ideas into real-world applications through applied research and cutting-edge development.
 
-**Global Presence:** Brazil (Campinas, Manaus) | USA (Atlanta, GA)
+**Global Presence:** 
+- Brazil (Campinas, Manaus)
+- USA (Atlanta, GA)
 
 ---
 
