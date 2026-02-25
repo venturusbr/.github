@@ -1,7 +1,3 @@
-# Venturus
-
-![30+ Years of Experience](https://img.shields.io/badge/Experience-30%2B%20Years-blue?style=flat-square)
-
 > Developing the future with cutting-edge technology
 
 **Venturus** is a Brazilian technology innovation center with over 30 years of experience delivering custom solutions with emerging technologies. We partner with global companies to transform ideas into real-world applications through applied research and cutting-edge development.
